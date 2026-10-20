@@ -271,7 +271,7 @@ A simulação permite exercitar a lógica de programação e compreender como di
 
 👨‍💻 Autor
 
-Nome: [Juan Pablo]
+Nome: Juan Pablo
 
 Curso: Análise e Desenvolvimento de Sistemas
 
